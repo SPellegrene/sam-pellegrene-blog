@@ -2,7 +2,7 @@
 title: 'Vue Custom Elements and Mutation Observers'
 excerpt: 'Using a mutation observer to efficiently watch changes to a child component living in the shadow dOM.'
 coverImage: '/assets/blog/mutation-observer/cover-image.png'
-date: '2023-03-01T05:35:07.322'
+date: '2023-02-20T05:35:07.322'
 codeSnippet: '/assets/blog/mutation-observer/mutation-observer.png'
 author:
   name: Sam Pellegrene
