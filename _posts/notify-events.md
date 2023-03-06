@@ -11,7 +11,7 @@ ogImage:
   url: '/assets/blog/mutation-observer/cover-image.jpg'
 ---
 
-Recently, I've been working on a personal project involving stremalining WCAG Accessibility requirements for developers. In order to future proof my CI, I created a Jenkins pipeline to automate the build and test process.
+Recently, I've been working on a personal project involving streamlining WCAG Accessibility requirements for developers. In order to future proof my CI, I created a Jenkins pipeline to automate the build and test process.
 
 The pipeline script I wrote consists of four stages: Verify Branch, Build, Test, and Send Notifications. Since this project isn't hosted publically, I haven't configured the webhook to allow auto build per commit. But this is something I will write in once I host my tool.
 
