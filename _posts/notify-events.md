@@ -1,5 +1,5 @@
 ---
-title: 'Building CI for my pet project'
+title: 'Building A Jenkins pipeline'
 excerpt: 'Automating my build pipeline to future proof my personal project.'
 coverImage: '/assets/blog/jenkins-pipeline/jenkins-pipeline.png'
 date: '2023-03-06T05:35:07.322'
